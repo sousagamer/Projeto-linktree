@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Devlinks</h1>
 
 <p align="center">
